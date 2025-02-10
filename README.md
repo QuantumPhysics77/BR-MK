@@ -1,12 +1,6 @@
 # Brick Rigs Mod Kit (BRMK)
 
-# Copyright
-- Code and assets contained within this mod kit are copyrighted material
-- You are allowed to use this mod kit to create mods for the game Brick Rigs
-- You are allowed to distribute your mods to owners of the game Brick Rigs
-- You are **NOT** allowed to redistribute this mod kit or parts of it to others
-- You are **NOT** allowed to use assets or code of this mod kit in other game projects
-- In general: Use common sense, if in doubt, ask Fluppi
+
 
 # Installation
 
