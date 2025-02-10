@@ -1,6 +1,6 @@
 # Brick Rigs Mod Kit (BRMK)
 
-# WARNING: NOT ALL OF THIS IS ACCURATE, DOWNLOAD THE .zip in the releases instead of pulling from the repo. Other instructions are the same.
+# WARNING: NOT ALL OF THIS IS ACCURATE, DOWNLOAD THE .zip by itself instead of pulling from the repo. Other instructions are the same.
 
 # Installation
 
