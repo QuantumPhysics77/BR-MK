@@ -20,7 +20,7 @@
 - Initialize git lfs: `git lfs install`
 - Clone the Unreal Engine repository from GitHub: `git clone -b 4.27 --depth 1 https://github.com/EpicGames/UnrealEngine.git`
 - Wait for the download to finish, this could take a while
-- While still in the root folder, clone the Brick Rigs Mod Kit from Bitbucket: `https://github.com/QuantumPhysics77/BR-MK.git` (Don't do this, download the .zip in releases)
+- Download the source from this link: https://mega.nz/file/bdg2XLDJ#kyW1aFkR0zvuOAcO2ogZi6NJyfzDTaRncTz7TnU2gGg. Extract to the root folder. Rename the folder to BrickRigsModKit.
 - Your folder structure should now look like this:
 
 
