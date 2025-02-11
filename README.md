@@ -48,9 +48,3 @@ C:\BRMK\
 - You will now have a folder for your mod in the content browser where you can place all of your assets
 - When you are finished with your mod, click the **Package UGC** button at the top of the editor and select your mod
 
-# Updating the Mod Kit
-- Open the Windows command prompt
-- Navigate to your mod kit folder, e.g.: `cd C:\BRMK\BrickRigsModKit`
-- Update the repository with git: `git pull`
-  - If this fails due to uncommitted changes, you can discard your changes with this command and try again (**WARNING:** This overwrites any changes you have made to game assets!): `git reset --hard`
-- Rerun the setup: `SetupModKit.bat`
